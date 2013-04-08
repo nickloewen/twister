@@ -1,0 +1,26 @@
+body {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 72px;
+	line-height: 72px;
+	text-align: center;
+}
+
+p {
+	margin: 20% 0px 2% 0px;
+
+}
+
+button {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 0.8em;
+	border: none;
+	color: #555;
+	background: #fff;
+		margin: 0px;
+
+}
+button:active {
+	color: #777;
+}

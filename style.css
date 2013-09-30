@@ -8,6 +8,7 @@ body {
 
 p {
 	margin: 20% 0px 2% 0px;
+	cursor: pointer;
 }
 
 button {
